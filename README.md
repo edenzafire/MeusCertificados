@@ -12,11 +12,13 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
 ## 🔐 Segurança da Informação & Cibersegurança
 
-- **Cyberbezpieczeństwo dla firm – szkolenie z podstaw bezpieczeństwa**  
-  *Comarch SA – Centro de Treinamento*  
-  📅 Abril de 2025  
-  📝 Treinamento introdutório sobre fundamentos de segurança da informação e
-  boas práticas de cibersegurança no ambiente corporativo.  
+### 🎓 Cursos e Certificações
+
+* **Cyberbezpieczeństwo dla firm – szkolenie z podstaw bezpieczeństwa**
+  * **Instituição:** Comarch SA – Centro de Treinamento
+  * **Período:** Abril de 2025
+  * **Descrição:** Capacitação focada na identificação de vetores de ataque contemporâneos e na implementação de controles defensivos básicos. O curso abordou governança de segurança, mitigação de riscos humanos e a aplicação prática de políticas de proteção de dados no ambiente empresarial.
+  * **Laboratório Prático (Em desenvolvimento):** 🛠️ [Corporate-Hardening-Lab](https://github.com/seu-usuario/corporate-hardening-lab) _(Projeto focado na implementação prática dos controles defensivos, hardening de servidores e monitoramento de logs discutidos no treinamento)_
 
   🔗 ![Visualizar certificado](./certificados/seg_empresas.jpg)
 
