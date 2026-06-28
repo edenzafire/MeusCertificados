@@ -36,11 +36,11 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
 ## 🦠 Malware, Vírus & Proteção de Sistemas
 
-- **Antiviral Protection of Computer Systems**  
-  *National Open University “INTUIT”*  
-  ⏱️ 72 horas | 📅 Fev–Mar 2025  
-  📝 Estudo dos principais métodos de proteção antivírus, detecção de ameaças
-  e mecanismos de defesa em sistemas computacionais.  
+* **Proteção Antiviral de Sistemas Informáticos**
+  * **Instituição:** Universidade Nacional Aberta “INTUIT”
+  * **Carga Horária / Período:** 72 horas | Fevereiro – Março de 2025
+  * **Descrição:** Estudo aprofundado sobre a arquitetura de softwares antivírus, métodos de detecção de ameaças (assinatura, heurística e análise comportamental) e mecanismos avançados de defesa em sistemas computacionais. Abordagem voltada para a compreensão de vetores de infecção e mitigação de códigos maliciosos.
+  * **Laboratório Prático (Em desenvolvimento):** 🧬 [Malware-Analysis-Defense-Lab](https://github.com/seu-usuario/malware-analysis-defense-lab) _(Repositório dedicado ao estudo e documentação de análise de binários, engenharia reversa de artefatos e testes de eficácia de mecanismos antivírus)_
 
   🔗 ![Visualizar certificado](./certificados/protAnt_siscomp_RU.jpg)
 
