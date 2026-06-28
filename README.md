@@ -30,12 +30,6 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
   🔗 ![Visualizar certificado](./certificados/noção%20básica%20se%20seguranca%20dainformação_RU.jpg)
 
-- **Fundamentos de Segurança da Informação (RU)**  
-  *Universidade Nacional Aberta “INTUIT”*  
-  ⏱️ 72 horas | 📅 2025  
-  📝 Abordagem teórica e prática sobre princípios de proteção da informação
-  e políticas básicas de segurança.  
-
   🔗 ![Visualizar certificado](./certificados/fundamentos_seginfo_RU.jpg)
 
 ---
