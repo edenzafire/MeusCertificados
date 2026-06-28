@@ -17,7 +17,7 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
   📅 Abril de 2025  
   📝 Treinamento introdutório sobre fundamentos de segurança da informação e
   boas práticas de cibersegurança no ambiente corporativo.  
-  🔗 [Visualizar certificado](./certificados/seg_empresas.jpg)
+  🔗 ![Visualizar certificado](./certificados/seg_empresas.jpg)
 
 - **The Basics of Information Security**  
   *(Fundamentos de Segurança da Informação)*  
