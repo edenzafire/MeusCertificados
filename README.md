@@ -22,12 +22,11 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
   🔗 ![Visualizar certificado](./certificados/seg_empresas.jpg)
 
-- **The Basics of Information Security**  
-  *(Fundamentos de Segurança da Informação)*  
-  *National Open University “INTUIT”*  
-  ⏱️ 72 horas | 📅 Fev–Mar 2025  
-  📝 Conceitos fundamentais de segurança da informação, confidencialidade,
-  integridade, disponibilidade e riscos digitais.  
+* **Fundamentos de Segurança da Informação**
+  * **Instituição:** Universidade Nacional Aberta “INTUIT”
+  * **Carga Horária / Período:** 72 horas | Fevereiro – Março de 2025
+  * **Descrição:** Formação sólida nos pilares fundamentais da segurança da informação (Tríade CID: Confidencialidade, Integridade e Disponibilidade). O curso abrangeu a análise e modelagem de riscos digitais, identificação de vulnerabilidades em sistemas e a aplicação de mecanismos de controle para proteção de ativos.
+  * **Aplicação Prática (Em desenvolvimento):** 🔬 [Security-Fundamentals-Lab](https://github.com/seu-usuario/security-fundamentals-lab) _(Laboratório focado na simulação, análise e mitigação de vulnerabilidades baseadas em falhas nos pilares da segurança da informação)_ 
 
   🔗 ![Visualizar certificado](./certificados/noção%20básica%20se%20seguranca%20dainformação_RU.jpg)
 
