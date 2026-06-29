@@ -56,11 +56,11 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
 ## 🧠 Sistemas & Gestão de Tecnologia da Informação
 
-- **Aprovação em Exame – Fundamentos de Sistemas de Informação**  
-  *National Open University “INTUIT”*  
-  📅 Março de 2025  
-  📝 Certificação obtida por meio de exame oficial, validando conhecimentos
-  sobre sistemas de informação e seus componentes.  
+* **Exame Oficial: Fundamentos de Sistemas de Informação**
+  * **Instituição:** Universidade Nacional Aberta “INTUIT”
+  * **Data de Emissão:** Março de 2025
+  * **Descrição:** Certificação obtida por meio de exame oficial de suficiência, validando proficiência na arquitetura, componentes essenciais e funcionamento estrutural de Sistemas de Informação. A aprovação comprova o domínio técnico sobre o ciclo de vida dos dados, governança de infraestrutura e a integração segura de tecnologias organizacionais.
+  * **Aplicação Prática (Em desenvolvimento):** 🏗️ [Secure-Architecture-Lab](https://github.com/seu-usuario/secure-architecture-lab) _(Repositório dedicado à modelagem de ameaças e design de infraestruturas seguras, aplicando conceitos de segurança desde a fundação dos sistemas)_
 
   🔗 ![Visualizar certificado](./certificados/Fund_Sintem_info_RU.jpg)
 
