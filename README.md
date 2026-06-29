@@ -64,11 +64,11 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
   🔗 ![Visualizar certificado](./certificados/Fund_Sintem_info_RU.jpg)
 
-- **Aprovação em Exame – Gestão de Tecnologia da Informação**  
-  *National Open University “INTUIT”*  
-  📅 Março de 2025  
-  📝 Avaliação focada em conceitos de gestão de TI, governança,
-  processos e alinhamento tecnológico.  
+* **Exame Oficial: Gestão de Tecnologia da Informação**
+  * **Instituição:** Universidade Nacional Aberta “INTUIT”
+  * **Data de Emissão:** Março de 2025
+  * **Descrição:** Certificação obtida por meio de exame oficial, validando competências em governança de TI, gestão de processos de negócios e alinhamento estratégico entre tecnologia e objetivos organizacionais. A aprovação comprova o domínio em frameworks de gestão, mitigação de riscos operacionais e ciclo de vida de serviços tecnológicos.
+  * **Aplicação Prática (Em desenvolvimento):** 📊 [IT-Governance-Security](https://github.com/seu-usuario/it-governance-security) _(Repositório voltado para a documentação de políticas de segurança, gerenciamento de ativos, auditoria de processos e conformidade aplicados a infraestruturas de TI)_ 
 
   🔗 ![Visualizar certificado](./certificados/gestao-tecInfo_RU.jpg)
 
