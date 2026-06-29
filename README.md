@@ -44,11 +44,11 @@ Todos os certificados estão disponíveis com **acesso direto** (clique no link 
 
   🔗 ![Visualizar certificado](./certificados/protAnt_siscomp_RU.jpg)
 
-- **Viruses and Methods of Combating Them**  
-  *National Open University “INTUIT”*  
-  ⏱️ 72 horas | 📅 Mar–Abr 2025  
-  📝 Análise de tipos de malware, vetores de infecção e técnicas utilizadas
-  para mitigação e resposta a incidentes.  
+* **Vírus e Métodos de Combate**
+  * **Instituição:** Universidade Nacional Aberta “INTUIT”
+  * **Carga Horária / Período:** 72 horas | Março – Abril de 2025
+  * **Descrição:** Análise técnica aprofundada da taxonomia de códigos maliciosos (malware), mapeamento de vetores de infecção e estudo de técnicas avançadas de mitigação. O curso abordou o ciclo de vida de explorações e metodologias estruturadas para resposta a incidentes e contenção de ameaças em sistemas comprometidos.
+  * **Aplicação Prática (Em desenvolvimento):** 🛠️ [Exploit-Lifecycle-Lab](https://github.com/seu-usuario/exploit-lifecycle-lab) _(Repositório voltado à documentação de ponta a ponta: desde a simulação controlada de vetores de ataque e técnicas de evasão até a análise de memória de baixo nível e aplicação de contramedidas)_
 
   🔗 ![Visualizar certificado](./certificados/virus%20e%20meios%20de%20combaterRU.jpg)
 
