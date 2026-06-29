@@ -3,10 +3,17 @@
 ![Security](https://img.shields.io/badge/Security-Information%20Security-blue?style=for-the-badge)
 ![IT](https://img.shields.io/badge/IT-Information%20Technology-green?style=for-the-badge)
 
-Este repositório reúne certificados obtidos por meio de estudos, cursos e exames formais,
-com foco em **Segurança da Informação**, **Cibersegurança** e **Tecnologia da Informação**.
+# 📑 Certificações & Validação Profissional
 
-Todos os certificados estão disponíveis com **acesso direto** (clique no link para visualizar).
+Este repositório centraliza minhas certificações, exames de suficiência e capacitações formais nas áreas de **Segurança da Informação, Cibersegurança e Governança de TI**. 
+
+Mais do que um registro acadêmico, cada conquista listada aqui representa a base teórica e normativa que sustenta os meus laboratórios práticos, garantindo o alinhamento entre a resposta técnica a ameaças e as melhores práticas de conformidade e gestão do mercado.
+
+---
+
+### 🚀 Como navegar
+* **Acesso Direto:** Todos os certificados e exames possuem links ativos para visualização imediata da credencial ou do documento comprobatório.
+* **Conexão Prática:** Os cursos técnicos estão diretamente vinculados aos seus respectivos laboratórios em desenvolvimento neste perfil, demonstrando a aplicação real dos conceitos absorvidos.
 
 ---
 
