@@ -21,17 +21,17 @@ O objetivo deste projeto é documentar de forma prática o aprendizado em fundam
 
 Cada módulo possui uma pasta dedicada contendo anotações teóricas, comandos utilizados, análises de pacotes/logs e writeups das atividades práticas.
 
-```text
-.
-├── 01_Introducao/
-│   ├── README.md               # Conceitos básicos, Carreiras e Stack Tecnológico
-│   └── ctf_intro_notes.md      # Anotações sobre dinâmica de CTFs
-├── 02_Redes_de_Computadores/
-│   ├── README.md               # Modelo em camadas (OSI / TCP-IP)
-│   ├── 01_DNS_Analysis.md      # Análise e consultas de DNS
-│   ├── 02_HTTP_HTTPS_Study.md  # Análise do protocolo HTTP/HTTPS
-│   └── 03_SSH_Hardening.md     # Testes de conexão e segurança SSH
-├── 03_Sistemas_Operacionais/
-│   ├── README.md               # Segurança em Servidores e Estrutura do Windows
-│   └── windows_security.md     # Permissões, logs e gerenciamento de segurança
-└── README.md                   # Este arquivo (Central de Documentação)
+| # | Módulo / Tópico | Categoria | Writeups & Anotações |
+|:-:|:---|:---|:---|
+| **01** | **Introdução à Cibersegurança** | Conceitos & CTF | [Acessar](./01_Introdução/) |
+| **02** | **Redes de Computadores** | Protocolos & Tráfego | [Acessar](./02_Redes-de-Computadores/) |
+| **03** | **Sistemas Operacionais** | Windows & Linux Hardening | [Acessar](./03_Sistemas-Operacionais/) |
+| **04** | **Automação** | Scripting & BASH/Python | [Acessar](./04_Automação/) |
+| **05** | **Criptografia** | Ciphers & Criptanálise | [Acessar](./05_Crypto/) |
+| **06** | **Segurança Web** | Vulnerabilidades Web & OWASP | [Acessar](./06_Web/) |
+| **07** | **Forense Computacional** | Análise de Artefatos & Memory | [Acessar](./07_Forensics/) |
+| **08** | **Engenharia Reversa** | Análise de Binários & Reversing | [Acessar](./08_Reverse/) |
+| **09** | **PWN & Exploitation** | Binary Exploitation & Buffer Overflow | [Acessar](./09_PWN/) |
+| **10** | **Desafio Final** | Projeto Integrador / Wrap-up | [Acessar](./10_Final/) |
+
+ 
