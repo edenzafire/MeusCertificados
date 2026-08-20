@@ -21,6 +21,16 @@ Mais do que um registro acadêmico, cada conquista listada aqui representa a bas
 
 ### 🎓 Cursos e Certificações
 
+
+* **"Компьютерная безопасность": курс для начинающих** *(Segurança de Computadores: Curso para Iniciantes)*
+  * **Instituição:** Stepik
+  * **Período:** [ Agosto de 2026]
+  * **Descrição:** Formação introdutória cobrindo fundamentos de segurança da informação, carreiras em cibersegurança, stack tecnológico e introdução a CTFs (Capture The Flag). O conteúdo abrange arquitetura de redes de computadores (modelo em camadas e protocolos DNS, HTTP, SSH) e segurança de Sistemas Operacionais (Windows e Servidores).
+  * **Laboratório Prático (Em desenvolvimento):** 🛠️ [Computer-Security-Lab](https://github.com/seu-usuario/computer-security-lab) _(Projeto focado no estudo prático de protocolos de rede e segurança de sistemas)_
+
+  🔗 ![Visualizar certificado](./certificados/stepik_computer_security.jpg)
+
+
 * **Cyberbezpieczeństwo dla firm – szkolenie z podstaw bezpieczeństwa**
   * **Instituição:** Comarch SA – Centro de Treinamento
   * **Período:** Abril de 2025
