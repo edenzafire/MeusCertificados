@@ -13,7 +13,9 @@ O objetivo deste projeto é documentar de forma prática o aprendizado em fundam
 * **Foco Principal:** Fundamentos de Cibersegurança, Arquitetura de Redes, Segurança de SO e Práticas de CTF.
 * **Status:** 🛠️ Em Desenvolvimento / Estudo Ativo
 
----
+<p align="center">
+  <img src="./images/capa.jpeg" alt="Capa Computer Security Lab" width="100%">
+</p>---
 
 ## 📂 Estrutura de Módulos & Writeups
 
